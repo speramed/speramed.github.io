@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://speramed.github.io/sitemap
+Sitemap: https://speramed.github.io/app/sitemap
+Sitemap: https://speramed.github.io/assets/sitemap
+Sitemap: https://speramed.github.io/css/sitemap
+Sitemap: https://speramed.github.io/includes/sitemap
+Sitemap: https://speramed.github.io/item/sitemap
+Sitemap: https://speramed.github.io/src/sitemap
